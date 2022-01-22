@@ -27,3 +27,6 @@ To get this project up and running locally on your computer:
 1. Open a browser to http://localhost:3000/ to open the library site.
 
 > **Note:** The library uses a default MongoDb database hosted on [MongoDB Atlas](https://www.mongodb.com/cloud/atlas). You should use a different database for your own code experiments.
+
+# wyang Notes
+- 这是一个只读网站
